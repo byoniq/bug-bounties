@@ -1204,6 +1204,7 @@
 - <img src='https://icon.horse/icon/www.federacy.com' width='16'/> [Paladin Cyber Bug Bounty](https://www.federacy.com/paladin-cyber-bug-bounty) 💰
 - <img src='https://icon.horse/icon/www.palantir.com' width='16'/> [Palantir](https://www.palantir.com/responsible-disclosure/) 💰 🎁
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [PancakeSwap](https://immunefi.com/bug-bounty/pancakeswap/) 💰
+- <img src='https://icon.horse/icon/panteracapital.com' width='16'/> [panteracapital.com](https://panteracapital.com/pantera-bug-bounty/) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Pantheon](https://bugcrowd.com/pantheon) 💰 🏅
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Panther Labs](https://hackerone.com/panther_labs) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Pantos](https://immunefi.com/bug-bounty/pantos/) 💰
