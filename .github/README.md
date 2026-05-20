@@ -129,6 +129,7 @@
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Atlassian](https://bugcrowd.com/atlassian) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Atlassian - Opsgenie](https://bugcrowd.com/opsgenie) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Atlassian-Built Apps](https://bugcrowd.com/engagements/atlassianapps) 💰
+- <img src='https://icon.horse/icon/www.atmail.com' width='16'/> [atmail.com](https://www.atmail.com/bug-bounty-terms/) 💰
 - <img src='https://icon.horse/icon/auderenow.org' width='16'/> [Audere](https://auderenow.org/security) 🏅
 - <img src='https://icon.horse/icon/audible.com' width='16'/> [Audible](http://audible.com) 💰
 - <img src='https://icon.horse/icon/www.augur.net' width='16'/> [Augur](https://www.augur.net/bounty/) 💰
