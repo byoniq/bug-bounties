@@ -611,6 +611,7 @@
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Flourish](https://bugcrowd.com/flourish) 💰
 - <img src='https://icon.horse/icon/www.flutter.com' width='16'/> [Flutter UK&I](https://www.flutter.com/our-business/our-divisions) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Flux Finance](https://immunefi.com/bug-bounty/fluxfinance/) 💰
+- <img src='https://icon.horse/icon/fluxer.app' width='16'/> [Fluxer](https://fluxer.app/security) 💰 🏅
 - <img src='https://icon.horse/icon/www.fluxiom.com' width='16'/> [Fluxiom](https://www.fluxiom.com/security) 🏅
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [FOIL](https://immunefi.com/bug-bounty/foil/) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Folks Finance](https://immunefi.com/bug-bounty/folksfinance/) 💰
