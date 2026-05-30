@@ -2709,6 +2709,11 @@ companies:
   contact: mailto:infosec@coffeeandbagels.com
   rewards:
   - '*recognition'
+- company: Cognition
+  url: https://cognition.ai
+  handle: cognition
+  contact: https://hackerone.com/cognition
+  rewards: []
 - company: Cognizant
   url: http://www.cognizant.com
   handle: cognizant
@@ -5375,6 +5380,11 @@ companies:
   handle: godaddy-vdp
   contact: https://hackerone.com/godaddy-vdp
   rewards: []
+- company: Gogo VDP
+  url: http://gogoair.com
+  handle: gogo_vdp
+  contact: https://hackerone.com/gogo_vdp
+  rewards: []
 - company: GoGoPool
   url: https://immunefi.com/bug-bounty/gogopool/
   contact: https://immunefi.com/bug-bounty/gogopool/
@@ -5460,6 +5470,11 @@ companies:
   contact: https://www.intigriti.com/programs/grafanalabs/grafanaossbbp/detail
   rewards:
   - '*bounty'
+- company: Grafana Labs - Vulnerability Disclosure Program (VDP)
+  url: https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
+  handle: grafanalabsvdp
+  contact: https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
+  rewards: []
 - company: Grammarly
   url: https://hackerone.com/grammarly
   contact: https://hackerone.com/grammarly
@@ -7760,6 +7775,11 @@ companies:
   url: https://marvelapp.com/security/
   contact: mailto:security@marvelapp.com
   rewards: []
+- company: Marvelution
+  url: https://bugcrowd.com/engagements/marvelutionbv
+  contact: https://bugcrowd.com/engagements/marvelutionbv
+  rewards:
+  - '*bounty'
 - company: Massachusetts Institute of Technology
   url: https://bounty.mit.edu/
   contact: https://bounty.mit.edu/
@@ -8534,6 +8554,11 @@ companies:
   url: https://www.federacy.com/nelogica
   contact: https://www.federacy.com/nelogica
   rewards: []
+- company: Nemetschek
+  url: https://bugcrowd.com/engagements/nemetschek
+  contact: https://bugcrowd.com/engagements/nemetschek
+  rewards:
+  - '*bounty'
 - company: NEOGOV Public Assets
   url: https://bugcrowd.com/engagements/neohrms
   contact: https://bugcrowd.com/engagements/neohrms
@@ -12125,6 +12150,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/StaderforPolygon/
   rewards:
   - '*bounty'
+- company: STAGIL Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/stagil
+  contact: https://bugcrowd.com/engagements/stagil
+  rewards:
+  - '*bounty'
 - company: Staging.every.org
   url: https://staging.every.org
   handle: stagingdoteverydotorg
@@ -13817,6 +13847,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/vesu/
   rewards:
   - '*bounty'
+- company: VF Corporation - VDP
+  url: http://vfc.com
+  handle: vf-corporation-vdp
+  contact: https://hackerone.com/vf-corporation-vdp
+  rewards: []
 - company: Vfs
   url: https://yeswehack.com/programs/vfs-global-bug-bounty-program
   contact: https://yeswehack.com/programs/vfs-global-bug-bounty-program
