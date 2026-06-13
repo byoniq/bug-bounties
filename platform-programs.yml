@@ -1910,6 +1910,11 @@ companies:
   url: https://www.britishgasevolve.co.uk/responsible-disclosure
   contact: https://www.britishgasevolve.co.uk/responsible-disclosure
   rewards: []
+- company: Broken Build Bug Bounty
+  url: https://bugcrowd.com/engagements/brokenbuild
+  contact: https://bugcrowd.com/engagements/brokenbuild
+  rewards:
+  - '*bounty'
 - company: BtcTurk
   url: https://www.btcturk.com/odul-avciligi
   contact: https://www.btcturk.com/odul-avciligi
@@ -3933,6 +3938,11 @@ companies:
   handle: dust
   contact: https://hackerone.com/dust
   rewards: []
+- company: Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/dutch-beginners-market
+  contact: https://bugcrowd.com/engagements/dutch-beginners-market
+  rewards:
+  - '*bounty'
 - company: Dutch Tax Office
   url: https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/data-leak-vulnerability-abuse-computer-systems-report
   contact: https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/data-leak-vulnerability-abuse-computer-systems-report
@@ -5324,6 +5334,11 @@ companies:
   contact: https://bugcrowd.com/engagements/glean-technologies-public
   rewards:
   - '*bounty'
+- company: Gliffy
+  url: https://bugcrowd.com/engagements/gliffy
+  contact: https://bugcrowd.com/engagements/gliffy
+  rewards:
+  - '*bounty'
 - company: Glo Dollar
   url: https://immunefi.com/bug-bounty/glodollar/
   contact: https://immunefi.com/bug-bounty/glodollar/
@@ -5891,6 +5906,12 @@ companies:
   contact: mailto:security@holland-controls.com
   rewards:
   - '*recognition'
+- company: Home Bargains
+  url: https://home.bargains
+  handle: homebargains
+  contact: https://hackerone.com/homebargains
+  rewards:
+  - '*bounty'
 - company: home-assistant.io
   url: https://www.home-assistant.io/security/
   contact: mailto:security@home-assistant.io
@@ -6646,6 +6667,11 @@ companies:
 - company: Izymes
   url: https://bugcrowd.com/engagements/izymes
   contact: https://bugcrowd.com/engagements/izymes
+  rewards:
+  - '*bounty'
+- company: J-Tricks - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/j-tricks
+  contact: https://bugcrowd.com/engagements/j-tricks
   rewards:
   - '*bounty'
 - company: James Madison Memorial Fellowship Foundation
@@ -8954,6 +8980,12 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: NVIDIA Public Bug Bounty
+  url: https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
+  handle: nvidiapublicbugbounty
+  contact: https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
+  rewards:
+  - '*bounty'
 - company: NWB Bank
   url: https://www.nwbbank.com/en/responsible-disclosure
   contact: mailto:info@nwbbank.com
@@ -13089,6 +13121,7 @@ companies:
   - '*swag'
 - company: Torfs
   url: https://app.intigriti.com/programs/torfs/torfs/detail
+  handle: torfs
   contact: https://app.intigriti.com/programs/torfs/torfs/detail
   rewards:
   - '*bounty'
@@ -14689,7 +14722,8 @@ companies:
   url: http://zebra.com
   handle: zebra_vdp
   contact: https://hackerone.com/zebra_vdp
-  rewards: []
+  rewards:
+  - '*swag'
 - company: ZECIBLE PUBLIC BUG BOUNTY PROGRAM
   url: https://yeswehack.com/programs/zecible-public-bug-bounty-program
   contact: https://yeswehack.com/programs/zecible-public-bug-bounty-program
