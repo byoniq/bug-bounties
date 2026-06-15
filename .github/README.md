@@ -986,6 +986,7 @@
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Maker Ecosystem Growth Holdings](https://hackerone.com/makerdao_bbp) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [MakerDAO Ecosystem](https://immunefi.com/bounty/makerdao/) 💰
 - <img src='https://icon.horse/icon/www.malwarebytes.org' width='16'/> [Malwarebytes](https://www.malwarebytes.org/secure/) 💰 🏅
+- <img src='https://icon.horse/icon/mamentis.com' width='16'/> [Mamentis](https://mamentis.com/docs/resources/miscellaneous/submit-bug-request#security-issues) 💰
 - <img src='https://icon.horse/icon/managewp.com' width='16'/> [ManageWP](https://managewp.com/white-hat-reward) 💰 🏅
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Mapbox](https://hackerone.com/mapbox) 💰 🏅
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Maple](https://immunefi.com/bug-bounty/maple/) 💰
