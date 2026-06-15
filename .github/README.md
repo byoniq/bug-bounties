@@ -1275,6 +1275,7 @@
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Plusgrade Loyalty Public Program](https://bugcrowd.com/engagements/plusgrade-mbb-public) 💰
 - <img src='https://icon.horse/icon/protonmail.com' width='16'/> [pm.me](https://protonmail.com/blog/protonmail-bug-bounty-program/) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [PNI Media - Bug Bounty](https://bugcrowd.com/engagements/pnimedia-bb) 💰
+- <img src='https://icon.horse/icon/pokee.ai' width='16'/> [pokee.ai](https://pokee.ai/bug-bounty) 💰
 - <img src='https://icon.horse/icon/tls.mbed.org' width='16'/> [Polar SSL](https://tls.mbed.org/bug-bounty-program) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Polkastarter](https://immunefi.com/bug-bounty/polkastarter/) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Polygon](https://immunefi.com/bug-bounty/polygon/) 💰
