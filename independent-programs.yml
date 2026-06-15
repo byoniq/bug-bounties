@@ -1126,6 +1126,19 @@ companies:
   - '*.snapdeploy.dev'
   response_sla_days: 7
 
+- company: SomnoAI Digital Sleep Lab
+  url: https://sleepsomno.com/en/security/bug-bounty
+  contact: mailto:sleepsomno.com
+  rewards:
+  - '*recognition'
+  program_type: vdp
+  status: active
+  excluded_methods:
+  - dos
+  - social_engineering
+  - phishing
+  - physical_access
+
 - company: Starnum.com.tw
   url: https://www.instagram.com/mychenan/
   contact: https://www.instagram.com/mychenan/
