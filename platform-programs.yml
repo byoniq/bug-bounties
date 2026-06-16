@@ -2280,6 +2280,11 @@ companies:
   handle: challenge0426
   contact: https://www.intigriti.com/programs/intigriti/challenge0426/detail
   rewards: []
+- company: Challenge 0626
+  url: https://www.intigriti.com/programs/intigriti/challenge0626/detail
+  handle: challenge0626
+  contact: https://www.intigriti.com/programs/intigriti/challenge0626/detail
+  rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
   contact: https://www.trychameleon.com/security/disclosure
