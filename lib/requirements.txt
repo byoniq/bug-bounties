@@ -1,5 +1,5 @@
 PyYAML==6.0.1
 requests==2.32.3
 jsonschema==4.23.0
-rapidfuzz==3.10.1
+rapidfuzz>=3.13  # was ==3.10.1, which has no wheel for Python 3.13/3.14
 tldextract
