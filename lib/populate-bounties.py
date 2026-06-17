@@ -39,7 +39,7 @@ SOURCES = {
     "yeswehack":        f"{GITHUB_RAW}/arkadiyt/bounty-targets-data/main/data/yeswehack_data.json",
     "federacy":         f"{GITHUB_RAW}/arkadiyt/bounty-targets-data/main/data/federacy_data.json",
     "disclose":         f"{GITHUB_RAW}/disclose/diodb/master/program-list.json",
-    "projectdiscovery": f"{GITHUB_RAW}/projectdiscovery/public-bugbounty-programs/main/chaos-bugbounty-list.json",
+    "projectdiscovery": f"{GITHUB_RAW}/projectdiscovery/public-bugbounty-programs/main/dist/data.json",
     "immunefi":         f"{GITHUB_RAW}/pratraut/Immunefi-Bug-Bounty-Programs-Snapshots/main/projects.json",
 }
 
